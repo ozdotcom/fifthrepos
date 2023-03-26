@@ -37,6 +37,7 @@ namespace BankingApp
 
         private void fromInvestmentRadioButton_Checked(object sender, RoutedEventArgs e)
         {
+            // there is no appendix at the end of session 6 exercise, putting this instead
         }
 
         private void transferButton_Click(object sender, RoutedEventArgs e)
